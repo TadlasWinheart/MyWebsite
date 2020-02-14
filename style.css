@@ -1,0 +1,39 @@
+body {
+    background-image: url("bg2.jpg");
+  }
+
+ 
+  ol{
+
+    font-size: 15;
+    text-align: right;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    background-color: lightgrey;
+    border-style: solid;
+    border-width: 5px;
+    color: black;
+    padding: 20px;
+
+  }
+
+
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  p{
+    font-size: 50px;
+    color: gray;
+    text-align: center;
+  }
+ 
+h2{
+    text-align: center;
+    border-width: 5px;
+    color: black;
+    color: gray;
+}
+
